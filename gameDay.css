@@ -1,0 +1,84 @@
+body{
+    margin:8% 10%;
+    font-family: "Abyssinica SIL";
+}
+
+h1{
+    text-align:center;
+}
+
+
+table{
+    margin: 3em auto;
+}
+
+
+td{
+    border:1px solid #d4c9cd;
+}
+
+/*for top 3 boxes */
+.topBoxes
+{
+    width: 150px;
+    height: 200px;
+
+}
+
+
+/*design/alignment for buttons*/
+.playBut1{
+
+    border-radius: 3px;
+    border: 1px solid darkslategrey;
+    color: #878c99;
+    padding: 15px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+.playBut2{
+
+    border-radius: 3px;
+    border: 1px solid darkslategrey;
+    color: #878c99;
+    padding: 15px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+/*for counters inside of boxes*/
+p{
+    font-size:50px;
+    text-align: center;
+}
+
+/*option block*/
+.noborder{
+    border: none;
+    text-align: right;
+}
+
+
+footer{
+    text-align: center;
+}
+
+.redBack{
+    background: #801614;
+}
+
+.blueBack
+{
+    background: #94b7e3;
+}
+
+.yellBack{
+    background: #fffd80;
+}
